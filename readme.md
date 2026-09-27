@@ -5,7 +5,7 @@ Learning Materials - Digital system design using SystemVerilog HDL.
 
 1.1 [Basic Logic Gate with Gate Level Modeling - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Basic%20Logic%20Gate%20with%20Gate%20Level%20Modeling%20-%20SV)  
 1.2 [Basic Logic Gate with Data Flow Modeling - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Basic%20Logic%20Gate%20with%20Data%20Flow%20Modeling%20-%20SV)  
-1.3 [Basic Logic Gate with Behavioral Modeling - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Basic%20Logic%20Gate%20with%20Behavioral%20Modeling%20-%20SV)
+1.3 [Basic Logic Gate with Behavioral Modeling - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Basic%20Logic%20Gate%20with%20Behavioral%20Modeling%20-%20SV)  
 2.1 [Converter Binnary to Gray - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Converter%20Binnary%20to%20Gray%20-%20SV)  
 2.2 [Converter Gray to Binnary - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Converter%20Gray%20to%20Binnary%20-%20SV)  
 3. [Adder - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Adder%20-%20SV)  
