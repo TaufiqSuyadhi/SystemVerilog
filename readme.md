@@ -15,7 +15,7 @@ Learning Materials - Digital system design using SystemVerilog HDL.
 6.2 [Comparator 4-bit - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Comparator%204-bit%20-%20SV)  
 7. [Multiplexer (MUX) - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Multiplexer%20(MUX)%20-%20SV)  
 8. [DeMultiplexer (DEMUX) - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Demultiplexer%20(DEMUX)%20-%20SV)  
-9. [Encoder - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Encoder%20-%20SV)
+9. [Encoder - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Encoder%20-%20SV)  
 10. [Decoder - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Decoder%20-%20SV)  
 11. [Arithmetic Logic Unit-ALU - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Arithmetic%20Logic%20Unit-ALU%20-%20SV)  
 12.1 [D Flip Flop - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/D%20Flip%20Flop%20-%20SV)  
