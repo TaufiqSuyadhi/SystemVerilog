@@ -34,6 +34,8 @@ Learning Materials - Digital system design using SystemVerilog HDL.
 16.4 [NOR Gate with Switch Level - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/NOR%20Gate%20with%20Switch%20Level%20-%20SV)  
 16.5 [XOR Gate with Switch Level - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/XOR%20Gate%20with%20Switch%20Level%20-%20SV)  
 17. [Switch Level Modeling based on equation - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Switch%20Level%20Modeling%20based%20on%20equation%20-%20SV)  
-18. [Project 1 - Design RTL schematic for FSM Mealy - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Project%201%20-%20Design%20RTL%20schematic%20for%20FSM%20Mealy%20-%20SV)  
-19. [Project 2 - Digital Stopwatch using SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Project%202%20-%20Digital%20Stopwatch%20using%20SV)
+
+## 2. Mini Project - Digital System Design Using SystemVerilog
+Project 1 - [Design RTL schematic for FSM Mealy - SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Project%201%20-%20Design%20RTL%20schematic%20for%20FSM%20Mealy%20-%20SV)  
+Project 2 - [Digital Stopwatch using SV](https://github.com/TaufiqSuyadhi/SystemVerilog/tree/main/Project%202%20-%20Digital%20Stopwatch%20using%20SV)
 
